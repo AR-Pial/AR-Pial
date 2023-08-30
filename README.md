@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AR-Pial
 - 👀 I’m interested in Game development,APP development,WEB development.
-- 🌱 I’m currently learning APP Development.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arpialcodes@gmail.com(my gmail).
 
